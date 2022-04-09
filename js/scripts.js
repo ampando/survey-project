@@ -15,12 +15,13 @@ $(document).ready(function() {
       $("result").show();
     } else if (location === music && location === pet) {
       $(".match").text(location);
+      $("#result").show();
     } else {
       $(".match").text("python");
       $("result").show();
     }
 
-      if (techType === "Ruby") {
+      if (techType === "hackerGenius") {
         $("#rubyResult").show();
       }
     });
