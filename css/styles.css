@@ -1,6 +1,10 @@
 body {
   background-color: rgb(197, 126, 153);
 }
+h1 {
+  text-align: center;
+}
+
 .btn {
   margin: 3px;
   font-size: small;
@@ -9,4 +13,10 @@ body {
   border: 5px solid rgb(91, 110, 218);
   padding: 10px;
   background-color: rgb(144, 198, 235);
+}
+#resultPython {
+  display: none;
+}
+#resultJavascript {
+  display: none;
 }
