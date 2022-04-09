@@ -14,12 +14,15 @@ h1 {
   padding: 10px;
   background-color: rgb(144, 198, 235);
 }
-#resultPython {
+
+#resultRuby {
   display: none;
 }
+
 #resultJavascript {
   display: none;
 }
+
 #result {
   display: none;
 }

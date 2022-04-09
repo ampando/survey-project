@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $("form#techCareer").submit(function(event){  
+  $("#formTechCareer").submit(function(event){  
     event.preventDefault();
     const techType = $("input:radio[name=techType]:checked").val();
     const language = $("input:radio[name=language]:checked").val();
