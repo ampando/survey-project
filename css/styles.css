@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(197, 126, 153);
+}
+.btn {
+  margin: 3px;
+  font-size: small;
+  display: block;
+  width: 40%;
+  border: 5px solid rgb(91, 110, 218);
+  padding: 10px;
+  background-color: rgb(144, 198, 235);
+}
