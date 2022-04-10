@@ -21,10 +21,6 @@ $(document).ready(function() {
       $("#result").show();
     }
 
-      if (techType === "hackerGenius") {
-        $("#rubyResult").show();
-    }
-
       // if (techType === "hackerGenius") {
       //   $("#rubyResult").show();
       // }  
