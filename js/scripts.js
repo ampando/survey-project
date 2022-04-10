@@ -1,11 +1,11 @@
 $(document).ready(function() {
-  $("#formTechCareer").submit(function(event){  
+  $("#techCareer").submit(function(event) {  
     event.preventDefault();
-    const techType = $("input:radio[name=techType]:checked").val();
-    const language = $("input:radio[name=language]:checked").val();
-    const location = $("input:radio[name=location]:checked").val();
-    const music = $("input:radio[name=music]:checked").val();
-    const pet = $("input:radio[name=pet]:checked").val();
+    const techType = $ ("input:radio[name=techType]:checked").val();
+    const language = $ ("input:radio[name=language]:checked").val();
+    const location = $ ("input:radio[name=location]:checked").val();
+    const music = $ ("input:radio[name=music]:checked").val();
+    const pet = $ ("input:radio[name=pet]:checked").val();
     
     if(techType === language && language === location) {
       $(".match").text(techType);
