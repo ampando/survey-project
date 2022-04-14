@@ -18,9 +18,19 @@ This is our second independent project at Epicodus. It is a survey to help peopl
 
 ## Setup/Installation Requirements
 
-* open browser
-* drag and drop the repository into your browser
-* use this link: https://ampando.github.io/Learn2code/
+Open by downloading:
+
+* Download the repository onto your computer
+* drag and drop the index.html into your web browser gh-pages link below
+* use this link: https://ampando.github.io/survey-project/
+
+Open with Bash/GitBash:
+
+* open your bash terminal
+* use git clone, copy and paste github URL using clone or download green button https://ampando.github.io/survey-project/
+* Navigate into the 'Survey-Project' directory using cd Survey-Project
+* Open in Visual Studio code using 'code .' command
+* Open index.html in Chrome or preferred browser: 'open index.html'
 
 
 ## Known Bugs

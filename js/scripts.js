@@ -20,10 +20,5 @@ $(document).ready(function() {
       $(".match").text("Python");
       $("#result").show();
     }
-
-      // if (techType === "hackerGenius") {
-      //   $("#rubyResult").show();
-      // }  
-      }
     });
   });

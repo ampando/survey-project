@@ -1,6 +1,6 @@
 body {
-  background-color: rgb(197, 126, 153);
-}
+  background-image: linear-gradient(to bottom right, rgb(255, 0, 247), yellow);
+  }
 h1 {
   text-align: center;
 }
